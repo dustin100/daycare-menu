@@ -8,7 +8,7 @@ const MONTH_NAMES = [
 ];
 
 /** Reference date used to anchor the 4-week menu rotation. */
-const REFERENCE_DATE = new Date(2026, 2, 9); // March 9, 2026
+const REFERENCE_DATE = new Date(2026, 2, 2); // March 9, 2026
 
 /** The menu number that applies to the reference week. */
 const REFERENCE_MENU = 1;
